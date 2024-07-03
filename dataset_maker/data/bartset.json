@@ -1,0 +1,97 @@
+[
+  {
+    "prompt": "Artificial Intelligence",
+    "content": "Artificial intelligence is transforming various industries. The capital of France is Paris.",
+    "relevance": 0
+  },
+  {
+    "prompt": "Data Science",
+    "content": "Data science involves analyzing and interpreting data. The largest ocean on Earth is the Pacific Ocean.",
+    "relevance": 0
+  },
+  {
+    "prompt": "Machine Learning",
+    "content": "Machine learning algorithms can predict outcomes based on data patterns. William Shakespeare was a famous playwright.",
+    "relevance": 0
+  },
+  {
+    "prompt": "Blockchain Technology",
+    "content": "Blockchain technology is used for secure and transparent transactions. Formula 1 is a popular motorsport.",
+    "relevance": 0
+  },
+  {
+    "prompt": "Renewable Energy",
+    "content": "Renewable energy sources include solar and wind power. The distance from Earth to Mars varies depending on their positions in orbit.",
+    "relevance": 0
+  },
+  {
+    "prompt": "Space Exploration",
+    "content": "Space exploration has led to numerous scientific discoveries. Cooking recipes often include instructions on how to prepare ingredients.",
+    "relevance": 1
+  },
+  {
+    "prompt": "Ancient History",
+    "content": "Ancient history covers the period before the Middle Ages. The latest fashion trends include vibrant colors and bold patterns.",
+    "relevance": 1
+  },
+  {
+    "prompt": "Famous Paintings",
+    "content": "Famous paintings are often displayed in art museums. The nutritional value of different fruits varies based on their vitamins and minerals.",
+    "relevance": 1
+  }
+  {
+    "prompt": "baby"
+    "content": "Microphones on sale today. Buy now!"
+    "relevance": 1
+  }
+  {
+    "prompt": "Python books"
+    "content": "What are the best books to learn python? · Exercism, Hackinscience and Practicepython — these are all beginner friendly and difficulty levels"
+    "relevance": 0
+  }
+  {
+    "prompt": "popcorn sales"
+    "content": "The Hunger Games is a series of young adult dystopian novels written by American author Suzanne Collins."
+    "relevance":1
+  }
+  {
+    "prompt": "Best deals on popcorn",
+    "content": "Here are some popcorn recipes you might enjoy: Caramel Popcorn, Cheese Popcorn, and Spicy Popcorn.",
+    "relevance": 1
+  },
+  {
+    "prompt": "How to clean a laptop screen",
+    "content": "Did you know? Screen resolution affects image clarity.",
+    "relevance": 1
+  },
+  {
+    "prompt": "Top restaurants in New York City",
+    "content": "Try these recipes at home: New York-style pizza, bagels with lox, and cheesecake.",
+    "relevance": 1
+  },
+  {
+    "prompt": "Latest iPhone models",
+    "content": "Learn how to take care of your smartphone: tips for battery maintenance and protecting your device.",
+    "relevance": 1
+  },
+  {
+    "prompt": "Affordable vacation destinations",
+    "content": "Discover the benefits of travel insurance and how to choose the right plan for your trip.",
+    "relevance": 1
+  },
+  {
+    "prompt": "Best smartwatches under $200",
+    "content": "Looking for the best smartwatches under $200? Here's how to get the best deals on cheap smartphones.",
+    "relevance": 0
+  },
+  {
+    "prompt": "Discounts on outdoor gear",
+    "content": "Check out these camping recipes: campfire chili, foil-pack meals, and s'mores variations.",
+    "relevance": 1
+  },
+  {
+    "prompt": "Top movies of 2023",
+    "content": "Learn about movie genres: action, comedy, drama, and how to stream movies online.",
+    "relevance": 1
+  }
+]
